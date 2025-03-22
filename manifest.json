@@ -8,7 +8,7 @@
     "keyword": "ex"
   },
   "background": {
-    "service_worker": "TabExtract.js"
+    "service_worker": "background.js"
   },
   "icons": {
     "16": "icon_016.png",
